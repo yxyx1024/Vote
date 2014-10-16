@@ -11,5 +11,9 @@
     <string name="record_name">记名</string>
     <string name="not_record_name">不记名</string>
     <string name="option_num">可选数目:</string>
+    <string name="back">上一步</string>
+    <string name="confirm_launch">确认发起</string>
+    <string name="next">下一步</string>
+    <string name="vote_setup">投票设置</string>
 
 </resources>
