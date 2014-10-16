@@ -23,6 +23,7 @@
             </intent-filter>
         </activity>
         <activity android:name="AtyNewVote"></activity>
+        <activity android:name="AtyConfirmVote"></activity>
     </application>
 
 </manifest>

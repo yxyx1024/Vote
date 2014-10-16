@@ -7,7 +7,7 @@
     <string name="launch_vote">发起投票</string>
     <string name="quit">退出软件</string>
     <string name="vote_name">投票名称:</string>
-    <string name="if_secret">是否记名:</string>
+    <string name="is_secret">是否记名:</string>
     <string name="record_name">记名</string>
     <string name="not_record_name">不记名</string>
     <string name="option_num">可选数目:</string>
